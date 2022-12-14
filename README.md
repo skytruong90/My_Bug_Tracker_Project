@@ -14,7 +14,9 @@
 
 ## What did I learned:
 Database
+
 Backend API
+
 React, etc.
 
 ## What I would improved:
