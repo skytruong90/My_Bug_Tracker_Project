@@ -1,5 +1,5 @@
 # Title: Bug Tracker Project
-### I worked on this myself as a side project and the code was build using C# and dot net.  
+### I worked on this by myself in order to push my limit and the code was build using C# and dot net.  
 
 ## How to install:
 1. Clone the repository: https://github.com/skytruong90/My_Bug_Tracker_Project.git
