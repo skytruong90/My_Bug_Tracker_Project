@@ -1,4 +1,4 @@
-# Bug Tracker Project
+# Title: Bug Tracker Project
 ### I worked on this myself as a side project and the code was build using C# and dot net.  
 
 ## How to install:
