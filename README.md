@@ -2,17 +2,27 @@
 ### I worked on this myself as a side project and the code was build using C# and dot net.  
 
 ## How to install:
-1. Clone the repository: 
+1. Clone the repository: https://github.com/skytruong90/My_Bug_Tracker_Project.git
 2. The main code is inside the code folder when you download everything.
 3. Run the project with any IDE.
 
 ## My Objective: 
-### To create a bug tracker 
+### To create a bug tracker that would logged and monitoried bugs or errors during software testing. Large systems may have hundreds or thousands of defects. Each needs to be evaluated, monitored and prioritized for debugging.
 
-## Mapping out the interaction between each applications:
+## Sceenshot:
 <img src= "" width="700">
 
-## Other Files:
-"Mock_GUI_1" is a word document of what I want the GUI to look like once everything is finished. You can view the doc by clicking on it and viewing it on Words.
+## What did I learned:
+Database
+Backend API
+React, etc.
 
-"User_Stories" is an excel document of what and why I ranked as my priorities.
+## What I would improved:
+1. Run more code testing.
+2. Modified on existing codes. 
+3. Be more patience with the project.
+
+## Key feature:
+1. End user will be able to add and comment on the bug.
+2. Able to register new account.
+3. Able to close bug once they are completed.
